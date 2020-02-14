@@ -88,10 +88,10 @@ button{
 }
 marquee{
     color: red;
-    font-size: 25px;
+    font-size: 22px;
     font-family: arial;
-    font-weight: bold;
-    font-style: italic;
+    
+    
 }
 /* marquee:hover{
     color: royalblue;
@@ -592,7 +592,8 @@ border-top: 1px solid white;
     text-align: center;
     margin: auto;
     margin-top: 20px;
-    color: red;
+    color: black;
+    border-bottom: 2px solid orange;
 }
 .contact1{
     text-align: center;
